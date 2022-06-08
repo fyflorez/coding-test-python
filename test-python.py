@@ -8,5 +8,6 @@
 from sys import exit
 from test.main import run
 
+
 if __name__ == "__main__":
     exit(run())
